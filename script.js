@@ -28,7 +28,7 @@ themeToggle.addEventListener('click', () => {
 
 /* ---------- Typing Effect ---------- */
 const nameEl = document.getElementById('typed-name');
-const fullName = 'Your Name Here';
+const fullName = 'Abubakar';
 let nameIdx = 0;
 let isDeleting = false;
 
